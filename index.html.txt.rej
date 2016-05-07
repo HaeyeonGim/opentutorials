@@ -1,0 +1,9 @@
+diff a/index.html.txt b/index.html.txt	(rejected hunks)
+@@ -3,6 +3,7 @@
+ 
+ 
+ =======
++>>>>>>> 鞁ろ棙
+ 	<body>
+ 		<header>
+ 			<h1>Git</h1>
